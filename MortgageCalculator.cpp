@@ -5,7 +5,7 @@ Rate is different per choice.
 
 
 *******************************************************************************/
-#include <iostream>
+
 #include <string>
 #include <iostream> 
 #include <cmath> // for pow()
